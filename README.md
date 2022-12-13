@@ -1,7 +1,7 @@
 # LR3-football-mode
 ·	Создайте новый пустой 3D проект на Unity.
 
-·	Скачайте папку с ML агентом. По ссылке– https://disk.yandex.ru/d/mIw-B-VaHllwdg.
+·	Скачайте папку с ML агентом по [ссылке](https://disk.yandex.ru/d/mIw-B-VaHllwdg)
 
 ·	В созданный проект добавьте ML Agent, выбрав Window - Package Manager - Add Package from disk. Последовательно добавьте .json – файлы:
 
@@ -48,7 +48,7 @@ o	torch 1.7.1;
 
  ![image](https://user-images.githubusercontent.com/114522298/207300335-eed85997-9872-4c03-af05-9ff08db0de15.png)
  
-·	В корень проекта добавьте файл конфигурации нейронной сети, доступный в папке с файлами проекта по ссылке https://disk.yandex.ru/d/n-vSx2vhvvrA6A, также его можно скачать из файлов репозитория
+·	В корень проекта добавьте файл конфигурации нейронной сети, доступный в папке с файлами проекта по [ссылке](https://disk.yandex.ru/d/n-vSx2vhvvrA6A), также его можно скачать из файлов репозитория
   
 ·	Запустите работу ml-агента
 ![image](https://user-images.githubusercontent.com/114522298/207301809-f3b339cc-681a-481a-ac25-b9d5bb72d3a0.png)
