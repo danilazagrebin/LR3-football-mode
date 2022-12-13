@@ -35,6 +35,11 @@ o	torch 1.7.1;
 
 ![image](https://user-images.githubusercontent.com/114522298/207294963-67373f99-e1f0-4732-9b67-25fc61aea3ef.png)
 
+· Для модели вород добавьте компонент Box colider. Настройте его, как показано ниже
+
+![image](https://user-images.githubusercontent.com/114522298/207304844-b13e1dbb-5b1a-408f-b635-575d58c47023.png)
+
+
 ·	Создайте простой C# скрипт-файл и подключите его к сфере:
 
 ·	В скрипт-файл RollerAgent.cs добавьте код, опубликованный в файлах репозитория
